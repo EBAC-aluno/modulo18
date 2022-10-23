@@ -1,6 +1,7 @@
+@Retention(RetentionPolicy.RUNTIME)
 @interface Tabela{
-  public String name();
 
+  public String name();
 }
 
 public class App {
