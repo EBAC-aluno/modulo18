@@ -5,6 +5,11 @@
 }
 
 public class App {
+  
+  @Tabela(name = "TABLE_NAME")
+  public static void myMethod() {
+  }
+  
   public static void main(String args[]) {
 
   }
